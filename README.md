@@ -1,1 +1,1 @@
-My web_static shell readme file
+# AirBnB clone - Web framework
